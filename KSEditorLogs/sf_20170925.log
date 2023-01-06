@@ -1,0 +1,140 @@
+2017-09-25 08:23:00.5893 [DEBUG] Scene Fusion version 1.5.0
+2017-09-25 08:23:18.8074 [DEBUG] Scene Fusion version 1.5.0
+2017-09-25 08:25:41.1765 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 08:30:35.4383 [DEBUG] Scene Fusion version 1.5.0
+2017-09-25 08:41:17.8248 [DEBUG] Scene Fusion version 1.5.0
+2017-09-25 08:41:20.8656 [DEBUG] Play mode: True, sync in play mode: False
+2017-09-25 08:42:04.0783 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+OO_BreakableWall.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_BreakableWall.cs:30)
+
+2017-09-25 08:42:05.0370 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:05.9611 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:07.7810 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:09.7531 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:17.5454 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+OO_BreakableWall.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_BreakableWall.cs:30)
+
+2017-09-25 08:42:24.1607 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:27.8996 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:31.6060 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:33.0797 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:40.8696 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:41.1884 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:54.3372 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:42:58.3075 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:43:19.2188 [ERROR] NullReferenceException: GetRef
+OO_PlayerManager.OnTriggerEnter (UnityEngine.Collider other) (at Assets/ROS_Scripts/OO_PlayerManager.cs:137)
+
+2017-09-25 08:43:38.4461 [DEBUG] Play mode: False
+2017-09-25 08:43:40.3053 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 08:47:41.0990 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 08:51:41.2114 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 08:55:41.2749 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 08:59:41.4288 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:03:41.5385 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:07:41.7329 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:09:53.4669 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 09:15:42.5527 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:19:42.0016 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:23:42.1245 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:27:42.1702 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:31:42.3412 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:35:42.3926 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:39:42.9595 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:43:42.5969 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:47:42.5776 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:51:42.6274 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:55:42.8236 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 09:59:42.9263 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:03:43.0451 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:09:26.0639 [ERROR] Error getting response stream (ReadDone2): ReceiveFailure
+2017-09-25 10:13:43.3790 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:19:43.5698 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:23:43.6214 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:27:43.8835 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:31:45.7447 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:33:56.9742 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 10:37:48.6789 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:41:46.2079 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:45:48.9425 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:51:47.0095 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 10:53:57.7367 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 10:57:47.2695 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:01:47.3647 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:07:47.9217 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:11:47.7222 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:15:47.8555 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:19:48.0456 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:23:48.0509 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:27:48.2051 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:31:48.2557 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:35:49.7304 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:39:48.6114 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:43:48.9917 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:47:48.6488 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:51:48.6952 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:55:48.8835 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 11:59:48.9776 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:01:59.2629 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 12:04:00.4168 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 12:07:49.8754 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:11:49.3157 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:14:01.3486 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 12:17:49.4498 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:21:49.4642 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:27:49.6193 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:31:49.6633 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:35:49.7403 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:39:49.7258 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:43:49.8853 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:47:49.9868 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:51:50.1509 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:55:50.2605 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 12:59:50.2940 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 13:05:31.4198 [ERROR] Error getting response stream (ReadDone2): ReceiveFailure
+2017-09-25 13:08:01.6341 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 13:11:50.7154 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 13:14:02.3953 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 13:17:50.8116 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 13:21:50.9189 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 13:27:31.9949 [ERROR] Error getting response stream (ReadDone2): ReceiveFailure
+2017-09-25 13:31:51.2703 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 13:35:51.3689 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 13:41:32.4676 [ERROR] Error getting response stream (ReadDone2): ReceiveFailure
+2017-09-25 13:44:02.3207 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 13:46:02.2073 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 13:48:04.1087 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 13:51:51.8022 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 13:55:54.7055 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 13:59:51.9558 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 14:02:03.5099 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 14:05:52.1177 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 14:09:52.2122 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 14:12:02.5402 [ERROR] Error writing request: BeginWrite failure
+2017-09-25 14:15:52.3219 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 14:19:52.3410 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure
+2017-09-25 14:23:52.4622 [ERROR] Error getting response stream (ReadDone1): ReceiveFailure

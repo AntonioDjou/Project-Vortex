@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 15952b060bf5340579e9edf51255a7ef
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Alpha:Head
+    100004: Alpha:Hips
+    100006: Alpha:LeftArm
+    100008: Alpha:LeftFoot
+    100010: Alpha:LeftForeArm
+    100012: Alpha:LeftHand
+    100014: Alpha:LeftHandIndex1
+    100016: Alpha:LeftHandIndex2
+    100018: Alpha:LeftHandIndex3
+    100020: Alpha:LeftHandIndex4
+    100022: Alpha:LeftHandIndex5
+    100024: Alpha:LeftHandMiddle1
+    100026: Alpha:LeftHandMiddle2
+    100028: Alpha:LeftHandMiddle3
+    100030: Alpha:LeftHandMiddle4
+    100032: Alpha:LeftHandMiddle5
+    100034: Alpha:LeftHandPinky1
+    100036: Alpha:LeftHandPinky2
+    100038: Alpha:LeftHandPinky3
+    100040: Alpha:LeftHandPinky4
+    100042: Alpha:LeftHandPinky5
+    100044: Alpha:LeftHandRing1
+    100046: Alpha:LeftHandRing2
+    100048: Alpha:LeftHandRing3
+    100050: Alpha:LeftHandRing4
+    100052: Alpha:LeftHandRing5
+    100054: Alpha:LeftHandThumb1
+    100056: Alpha:LeftHandThumb2
+    100058: Alpha:LeftHandThumb3
+    100060: Alpha:LeftHandThumb4
+    100062: Alpha:LeftHandThumb5
+    100064: Alpha:LeftLeg
+    100066: Alpha:LeftShoulder
+    100068: Alpha:LeftToeBase
+    100070: Alpha:LeftUpLeg
+    100072: Alpha:Neck
+    100074: Alpha:Neck1
+    100076: Alpha:RightArm
+    100078: Alpha:RightFoot
+    100080: Alpha:RightForeArm
+    100082: Alpha:RightHand
+    100084: Alpha:RightHandIndex1
+    100086: Alpha:RightHandIndex2
+    100088: Alpha:RightHandIndex3
+    100090: Alpha:RightHandIndex4
+    100092: Alpha:RightHandIndex5
+    100094: Alpha:RightHandMiddle1
+    100096: Alpha:RightHandMiddle2
+    100098: Alpha:RightHandMiddle3
+    100100: Alpha:RightHandMiddle4
+    100102: Alpha:RightHandMiddle5
+    100104: Alpha:RightHandPinky1
+    100106: Alpha:RightHandPinky2
+    100108: Alpha:RightHandPinky3
+    100110: Alpha:RightHandPinky4
+    100112: Alpha:RightHandPinky5
+    100114: Alpha:RightHandRing1
+    100116: Alpha:RightHandRing2
+    100118: Alpha:RightHandRing3
+    100120: Alpha:RightHandRing4
+    100122: Alpha:RightHandRing5
+    100124: Alpha:RightHandThumb1
+    100126: Alpha:RightHandThumb2
+    100128: Alpha:RightHandThumb3
+    100130: Alpha:RightHandThumb4
+    100132: Alpha:RightHandThumb5
+    100134: Alpha:RightLeg
+    100136: Alpha:RightShoulder
+    100138: Alpha:RightToeBase
+    100140: Alpha:RightUpLeg
+    100142: Alpha:Spine
+    100144: Alpha:Spine1
+    100146: Alpha:Spine2
+    400000: //RootNode
+    400002: Alpha:Head
+    400004: Alpha:Hips
+    400006: Alpha:LeftArm
+    400008: Alpha:LeftFoot
+    400010: Alpha:LeftForeArm
+    400012: Alpha:LeftHand
+    400014: Alpha:LeftHandIndex1
+    400016: Alpha:LeftHandIndex2
+    400018: Alpha:LeftHandIndex3
+    400020: Alpha:LeftHandIndex4
+    400022: Alpha:LeftHandIndex5
+    400024: Alpha:LeftHandMiddle1
+    400026: Alpha:LeftHandMiddle2
+    400028: Alpha:LeftHandMiddle3
+    400030: Alpha:LeftHandMiddle4
+    400032: Alpha:LeftHandMiddle5
+    400034: Alpha:LeftHandPinky1
+    400036: Alpha:LeftHandPinky2
+    400038: Alpha:LeftHandPinky3
+    400040: Alpha:LeftHandPinky4
+    400042: Alpha:LeftHandPinky5
+    400044: Alpha:LeftHandRing1
+    400046: Alpha:LeftHandRing2
+    400048: Alpha:LeftHandRing3
+    400050: Alpha:LeftHandRing4
+    400052: Alpha:LeftHandRing5
+    400054: Alpha:LeftHandThumb1
+    400056: Alpha:LeftHandThumb2
+    400058: Alpha:LeftHandThumb3
+    400060: Alpha:LeftHandThumb4
+    400062: Alpha:LeftHandThumb5
+    400064: Alpha:LeftLeg
+    400066: Alpha:LeftShoulder
+    400068: Alpha:LeftToeBase
+    400070: Alpha:LeftUpLeg
+    400072: Alpha:Neck
+    400074: Alpha:Neck1
+    400076: Alpha:RightArm
+    400078: Alpha:RightFoot
+    400080: Alpha:RightForeArm
+    400082: Alpha:RightHand
+    400084: Alpha:RightHandIndex1
+    400086: Alpha:RightHandIndex2
+    400088: Alpha:RightHandIndex3
+    400090: Alpha:RightHandIndex4
+    400092: Alpha:RightHandIndex5
+    400094: Alpha:RightHandMiddle1
+    400096: Alpha:RightHandMiddle2
+    400098: Alpha:RightHandMiddle3
+    400100: Alpha:RightHandMiddle4
+    400102: Alpha:RightHandMiddle5
+    400104: Alpha:RightHandPinky1
+    400106: Alpha:RightHandPinky2
+    400108: Alpha:RightHandPinky3
+    400110: Alpha:RightHandPinky4
+    400112: Alpha:RightHandPinky5
+    400114: Alpha:RightHandRing1
+    400116: Alpha:RightHandRing2
+    400118: Alpha:RightHandRing3
+    400120: Alpha:RightHandRing4
+    400122: Alpha:RightHandRing5
+    400124: Alpha:RightHandThumb1
+    400126: Alpha:RightHandThumb2
+    400128: Alpha:RightHandThumb3
+    400130: Alpha:RightHandThumb4
+    400132: Alpha:RightHandThumb5
+    400134: Alpha:RightLeg
+    400136: Alpha:RightShoulder
+    400138: Alpha:RightToeBase
+    400140: Alpha:RightUpLeg
+    400142: Alpha:Spine
+    400144: Alpha:Spine1
+    400146: Alpha:Spine2
+    7400000: Walk Fwd[Rifle]
+    7400002: Walk Bwd[Rifle]
+    7400004: Walk Left[Rifle]
+    7400006: Walk Right[Rifle]
+    7400008: WalkFWD[Rifle]
+    7400010: WalkBWD[Rifle]
+    7400012: WalkLFT[Rifle]
+    7400014: WalkRGT[Rifle]
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WalkFWD[Rifle]
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBWD[Rifle]
+      takeName: Take 001
+      firstFrame: 41
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkLFT[Rifle]
+      takeName: Take 001
+      firstFrame: 81
+      lastFrame: 112
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkRGT[Rifle]
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

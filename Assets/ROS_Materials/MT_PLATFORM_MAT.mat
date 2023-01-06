@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MT_PLATFORM_MAT
+  m_Shader: {fileID: 4800000, guid: 746c8018f357aaf4cb9c44a31cc0361b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _CUBEMAP
+      second:
+        m_Texture: {fileID: 8900000, guid: 2c984cf241e28a94fbf577981911ec9f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DIFFUSE_Gloss_A
+      second:
+        m_Texture: {fileID: -561854277, guid: c3861154dd2fe79419b5a5dc5bf36a2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _EMISSIVE
+      second:
+        m_Texture: {fileID: -640718164, guid: c3861154dd2fe79419b5a5dc5bf36a2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NORMAL
+      second:
+        m_Texture: {fileID: 2137985392, guid: c3861154dd2fe79419b5a5dc5bf36a2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SPEC_G
+      second:
+        m_Texture: {fileID: 616826431, guid: c3861154dd2fe79419b5a5dc5bf36a2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_617
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _EMISSIVEMULT
+      second: 200
+    - first:
+        name: _SPECMULT
+      second: 2
+    m_Colors: []
